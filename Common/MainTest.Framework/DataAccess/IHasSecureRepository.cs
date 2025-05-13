@@ -1,11 +1,4 @@
-﻿using MainTest.Framework.Entity;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace MainTest.Framework.DataAccess
+﻿namespace MainTest.Framework.DataAccess
 {    
     
     public interface IHasSecureRepository

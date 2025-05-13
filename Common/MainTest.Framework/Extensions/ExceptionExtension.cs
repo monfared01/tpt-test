@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace MainTest.Framework.Extensions
+﻿namespace MainTest.Framework.Extensions
 {
     public static class ExceptionExtension
     {

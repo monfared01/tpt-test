@@ -1,5 +1,4 @@
 ﻿using MainTest.Framework.Common;
-using MainTest.Framework.Extensions;
 using MediatR;
 using Sales.Application.Response;
 using Sales.Domain;

@@ -1,8 +1,6 @@
 ﻿using MainTest.Framework.Entity;
 using MainTest.Framework.Extensions;
-using MainTest.Framework.Mapping.Interfaces;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.Internal;
 using System.Linq.Expressions;
 
 namespace MainTest.Framework.DataAccess
