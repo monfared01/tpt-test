@@ -10,6 +10,6 @@ public class CreateOrderValidator : AbstractValidator<CreateOrderCommand>
         RuleFor(p => p.CustomerName)
                 .NotEmpty().WithMessage("نام مشتری نمیتواند خالی باشد.");
         RuleFor(p => p.TotalAmount)
-            .GreaterThanOrEqualTo(0).WithMessage("مبلغ سفارش نمیتواند منفی باشد.");
+            .GreaterThan(0).WithMessage("مبلغ سفارش نمیتواند 0 یا کمتر باشد.");
     }
 }

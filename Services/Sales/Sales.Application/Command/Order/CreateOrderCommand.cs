@@ -1,11 +1,6 @@
 ﻿using MainTest.Framework.Mapping.Interfaces;
 using MediatR;
 using Sales.Domain;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Sales.Application.Command.Order
 {
