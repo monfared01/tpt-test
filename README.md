@@ -30,6 +30,7 @@ Currently implemented services:
 - Database migration process implemented
 - Apply data transfer objects, implemented using Request/Response classes and AutoMapper for seamless automatic mapping
 - Repository and UOW
+- Swagger Doc
 
 ---
 
